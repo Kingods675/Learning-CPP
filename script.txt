@@ -1,0 +1,28 @@
+g++ hello.cpp -o ../out/hello.exe; ../out/hello.exe
+g++ feb19_hello.cpp -o ../out/feb19_hello.exe; ../out/feb19_hello.exe
+g++ feb21_basics.cc -o ../out/feb21_basics.exe; ../out/feb21_basics.exe
+
+g++ feb25_isPrimeNumber.cc -o ../out/feb25_isPrimeNumber.exe; ../out/feb25_isPrimeNumber.exe
+
+g++ feb27_pointer.cc -o ../out/feb27_pointer.exe; ../out/feb27_pointer.exe
+
+g++ feb28_practice.cpp -o ../out/feb28_practice.exe; ../out/feb28_practice.exe
+
+g++ mar1_pointers.cpp -o ../out/mar1_pointers.exe; ../out/mar1_pointers.exe
+
+g++ mar4_arrays.cpp -o ../out/mar4_arrays.exe; ../out/mar4_arrays.exe
+
+g++ mar6_ISBN.cpp -o ../out/mar6_ISBN.exe; ../out/mar6_ISBN.exe
+
+g++ mar18_array.cpp -o ../out/mar18_array.exe; ../out/mar18_array.exe
+
+
+g++ main.cpp CharacterChecker.cpp -o ../out/mar19_challenge.exe; ../out/mar19_challenge.exe
+
+
+g++ mar20_challenge2.cpp -o ../out/main.exe; ../out/main.exe
+
+g++ mar21_challenge6_21.cpp -o ../out/main.exe; ../out/main.exe
+
+
+g++ mar26_fibonacci.cpp -o ../out/main.exe; ../out/main.exe
