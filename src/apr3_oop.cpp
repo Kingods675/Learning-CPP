@@ -1,4 +1,4 @@
-#include "Triangle.h"
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
@@ -25,9 +25,6 @@ void Triangle::PrintInfo() const {
 }
 
 
-
-#include <iostream>
-#include "Triangle.h"
 using namespace std;
 
 int main() {
