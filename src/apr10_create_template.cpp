@@ -30,6 +30,7 @@ int main(int argc, char *argv[]) {
     if (!newFile.is_open()) {
         cerr << "Error creating new file" << endl;
         return EXIT_FAILURE;
+        //add
     }
 
     // write content from a template file to this new file
@@ -43,6 +44,8 @@ int main(int argc, char *argv[]) {
         content << c;
         // content += c;
     }
+
+    // cout << content.str() << endl; 
 
     newFile << content.str();
 
