@@ -26,3 +26,7 @@ g++ mar21_challenge6_21.cpp -o ../out/main.exe; ../out/main.exe
 
 
 g++ mar26_fibonacci.cpp -o ../out/main.exe; ../out/main.exe
+
+g++ apr8_stream.cpp -o ../out/main.exe; ../out/main.exe
+
+g++ apr9_HW.cpp -o ../out/main.exe; ../out/main.exe

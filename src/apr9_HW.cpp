@@ -17,7 +17,7 @@ int main () {
     myFile.open(filename);
 
     for (int i = 0; i < 100; i++) {
-        myFile << i << "." << fname << " " << lname << endl;
+        myFile << i+1 <<"." << fname << " " << lname << endl;
     }
 
     myFile.close();
